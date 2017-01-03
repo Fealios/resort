@@ -2,7 +2,7 @@
 
 #### _{Belize Travel Resort}, {12/3/2017}_
 
-#### By _**{Brandon Cooper, Melvin }**_
+#### By _**{Brandon Cooper, Melvin Gruschow}**_
 
 ## Description
 
