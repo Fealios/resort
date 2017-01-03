@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Seaweed+Script";
+@import "https://fonts.googleapis.com/css?family=Montez";
 
 body {
   background-color: pink;
@@ -12,13 +12,14 @@ body {
 }
 
 h2 {
-  font-family: 'Seaweed Script', cursive;
+  font-family: 'Montez', cursive;
   display: inline;
+  font-size: 50px;
 }
 
 .container {
   position: relative;
-  height: 290px;
+  height: 320px;
   width: 100%;
 }
 
@@ -27,6 +28,9 @@ h2 {
   top: 200px;
   left: 10px;
   width: 100%;
+  color: #ecbf31;
+  font-size: 25px;
+  text-shadow: -2px 0 black 
 }
 
 ul {
@@ -34,6 +38,6 @@ ul {
 }
 
 img {
-  height: 280px;
+  height: 310px;
 
 }
