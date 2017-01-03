@@ -1,3 +1,31 @@
+@font-face {
+  font-family: 'Seaweed Script', cursive;
+  src: url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+}
+
 body {
   background-color: pink;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Seaweed Script', cursive;
+}
+
+.container {
+  position: relative;
+  height: 290px;
+  width: 100%;
+}
+
+.image-text{
+  position: absolute;
+  top: 200px;
+  left: 10px;
+  width: 100%;
+}
+
+img {
+  height: 280px;
+
 }
