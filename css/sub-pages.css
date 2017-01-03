@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Seaweed Script', cursive;
-  src: url(https://fonts.googleapis.com/css?family=Seaweed+Script);
-}
+@import "https://fonts.googleapis.com/css?family=Seaweed+Script";
 
 body {
   background-color: pink;
