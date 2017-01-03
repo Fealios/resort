@@ -5,13 +5,10 @@ body {
   text-align: center;
 }
 
-.top {
-  border: solid;
-  width: 600px;
-}
-
-.home {
-  color: blue;
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
