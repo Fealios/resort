@@ -5,8 +5,18 @@ body {
   text-align: center;
 }
 
+.top {
+  border: solid;
+  width: 600px;
+}
+
+.home {
+  color: blue;
+}
+
 h2 {
   font-family: 'Seaweed Script', cursive;
+  display: inline;
 }
 
 .container {
@@ -20,6 +30,10 @@ h2 {
   top: 200px;
   left: 10px;
   width: 100%;
+}
+
+ul {
+  list-style: none;
 }
 
 img {
