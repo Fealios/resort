@@ -6,7 +6,6 @@ body {
 }
 
 .container {
-  border: solid;
   position: relative;
 }
 
@@ -17,10 +16,8 @@ body {
   text-shadow: -2px 0 black;
 }
 
-@media (max-width: 100%;) {
-  #background {
-    display: none;
-  }
+#background {
+  width: 100%;
 }
 
 h1 {
